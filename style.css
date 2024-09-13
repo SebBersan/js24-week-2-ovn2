@@ -1,0 +1,47 @@
+body {
+      background-color: #e6d2ff;
+}
+  
+header {
+      background-color: #734f96;
+      padding: 15px;
+      text-align: center;
+      font-size: 25px;
+      color: #e5ddf1;
+}
+  
+nav a{
+      color:#f2eef9;
+      text-align: center;
+      padding: 25px;
+     
+}
+  
+section {
+      align-items: center;
+      border: 1px solid #2b183a;
+      background-color: #be98e3;
+      box-shadow: 3px 3px 10px #2b183a;
+      margin: 50px;
+}
+
+section h2 {
+    color: #2b183a;
+    text-align: center;
+
+}
+
+section p {
+      color: #563a6e;
+      text-align: center;
+}
+  
+footer {
+      background-color: #734f96;
+      padding: 3px;
+      text-align: center;
+      font-size: 18px;
+      color: #e5ddf1; 
+}
+
+  
